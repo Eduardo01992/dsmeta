@@ -1,16 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
 
 * {
+  font-family: "Roboto", sans-serif;
   box-sizing: border-box;
-  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
 }
 
 body,
 html {
-  color: #FFF;
   background-color: #000;
+  color: #fff;
 }
 
 a,
@@ -22,8 +22,8 @@ a:visited {
 
 .dsmeta-container {
   width: 100%;
-  max-width: 1300px;
-  margin: auto;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 #sales {
